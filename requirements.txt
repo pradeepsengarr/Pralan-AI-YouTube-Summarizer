@@ -1,0 +1,7 @@
+streamlit
+requests
+python-dotenv
+youtube-transcript-api
+tqdm
+pytube
+openai-whisper
